@@ -25,13 +25,7 @@ Follow these steps to set up and run the project locally.
 
 ## Frontend
 
-###  Clone the Repository
 
-```bash
-git clone https://github.com/kshitiz11101/JobHunt
-cd client
-npm install
-npm run dev
 ```
 
 ## BACKEND
